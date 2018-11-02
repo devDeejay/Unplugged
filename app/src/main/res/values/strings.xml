@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unplugged</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="usb_alert">USB Alert</string>
+    <string name="sets_off_the_alarm_based_on_headset_port">Sets off the alarm based on Headset Port</string>
+    <string name="headset_port">Headset Port</string>
+    <string name="sets_off_the_alarm_based_on_usb_status">Sets off the alarm based on USB Status</string>
+</resources>

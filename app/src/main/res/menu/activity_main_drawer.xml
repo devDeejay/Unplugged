@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="UnPlugged">
+        <menu>
+            <item
+                android:id="@+id/nav_tutorial"
+                android:icon="@drawable/smartphone_hand"
+                android:title="Tutorial" />
+            <item
+                android:id="@+id/nav_tips"
+                android:icon="@drawable/checked"
+                android:title="Tips" />
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/star"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/feedback"
+                android:title="Feedback" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+    <item android:title="DevDelhi">
+    <menu>
+        <item
+            android:id="@+id/nav_website"
+            android:icon="@drawable/internet"
+            android:title="Website" />
+        <item
+            android:id="@+id/nav_terms"
+            android:icon="@drawable/legal"
+            android:title="Terms" />
+    </menu>
+</item>
+</menu>
